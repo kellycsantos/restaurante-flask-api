@@ -3,7 +3,7 @@
         {
             "id": 0,
             "username": "Anne",
-            "img": "",
+            "img": "https://raw.githubusercontent.com/kellycsantos/images-db/main/avatar/princess-anne.jpg",
             "review_rate": 4,
             "description_en": "This place is awesome! The kibe is to die for! Friendly service and cozy atmosphere. Can't wait to come back!",
             "description_pt": "Este lugar é incrível! O kibe é de morrer! Atendimento simpático e ambiente acolhedor. Mal posso esperar para voltar! "
@@ -11,7 +11,7 @@
         {
             "id": 1,
             "username": "Solar",
-            "img": "",
+            "img": "https://raw.githubusercontent.com/kellycsantos/images-db/main/avatar/solar-mamamoo.jpg",
             "review_rate": 4,
             "description_en": "This place won my heart!",
             "description_pt": "Este lugar conquistou meu coração!"
@@ -19,7 +19,7 @@
         {
             "id": 2,
             "username": "Mário",
-            "img": "",
+            "img": "https://raw.githubusercontent.com/kellycsantos/images-db/main/avatar/joseph-gonzalez-men.jpg",
             "review_rate": 5,
             "description_en": "Great reception, my family and I will definitely come back!",
             "description_pt": "Ótima recepção, minha família e eu voltaremos com certeza!"
@@ -27,7 +27,7 @@
         {
             "id": 3,
             "username": "Daya",
-            "img": "",
+            "img": "https://raw.githubusercontent.com/kellycsantos/images-db/main/avatar/prince-akachi-woman-smile.jpg",
             "review_rate": 5,
             "description_en": "Never disappoints! Delicious food, great service, cozy atmosphere. A must-visit!",
             "description_pt": "Nunca decepciona! Comida deliciosa, ótimo serviço, ambiente aconchegante. Um lugar obrigatório para visitar!"
@@ -35,7 +35,7 @@
         {
             "id": 4,
             "username": "Kakuzu",
-            "img": "",
+            "img": "https://raw.githubusercontent.com/kellycsantos/images-db/main/avatar/charlesdeluvio-kakuzu.jpg",
             "review_rate": 3,
             "description_en": "Interesting experience, but it was very crowded and took a while to get a table.",
             "description_pt": "Experiência interessante, mas estava muito cheio e demorou até conseguirmos uma mesa"
