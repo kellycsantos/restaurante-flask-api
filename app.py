@@ -6,7 +6,7 @@ CORS(app)
 
 @app.route('/')
 def getHi():
-    return "ola mundo"
+    return "Restaurant Api with Flask ! "
 
 @app.route('/menu')
 def getMenu():
