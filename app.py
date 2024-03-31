@@ -19,5 +19,3 @@ def getReviews():
     with open('reviews.json','r') as json_file:
         reviews = json.load(json_file)
     return reviews
-
-app.run(port=5000, host='localhost')
