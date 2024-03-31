@@ -1,0 +1,58 @@
+{
+    "pratos": [
+        {
+            "id": 0,
+            "name": "kibe",
+            "description": "Nosso kibe é crocante por fora e macio por dentro, uma verdadeira explosão de sabores orientais em cada mordida.",
+            "img": "https://raw.githubusercontent.com/kellycsantos/images-db/main/comidas%20variadas/kibe.jpg",
+            "value": "12",
+            "destaque": false,
+            "avaliacao": 3
+        },
+        {
+            "id": 1,
+            "name": "pancake",
+            "description": "Desfrute de nossa irresistível panqueca de chocolate: macia, recheada com pedaços cremosos de chocolate, uma indulgência que derrete na boca.",
+            "img": "https://raw.githubusercontent.com/kellycsantos/images-db/main/comidas%20variadas/chocolate_eggless_pancake.jpg",
+            "value": "11",
+            "destaque": false,
+            "avaliacao": 4
+        },
+        {
+            "id": 2,
+            "name": "muffins mediterraneos",
+            "description": "Kachumber: uma fusão de frescor e temperos que encanta seu paladar.",
+            "img": "https://raw.githubusercontent.com/kellycsantos/images-db/main/comidas%20variadas/mediterranean-muffins.jpg",
+            "value": "16",
+            "destaque": false,
+            "avaliacao": 5
+        },
+        {
+            "id": 3,
+            "name": "kachumber",
+            "description": "Kachumber: uma fusão de frescor e temperos que encanta seu paladar.",
+            "img": "https://raw.githubusercontent.com/kellycsantos/images-db/main/comidas%20variadas/kachumber.jpg",
+            "value": "8",
+            "destaque": false,
+            "avaliacao": 4
+        },
+        {
+            "id": 4,
+            "name": "egg masala",
+            "description": "Ovos mergulhados em um turbilhão de especiarias indianas, uma dança de sabores que aquece a alma em cada garfada.",
+            "img": "https://raw.githubusercontent.com/kellycsantos/images-db/main/comidas%20variadas/egg_masala.jpg",
+            "value": "13",
+            "destaque": false,
+            "avaliacao": 3
+        },
+        {
+            "id": 5,
+            "name": "masgouf",
+            "description": "Masgouf: grelhado, temperado, sabor iraquiano autêntico.",
+            "img": "https://raw.githubusercontent.com/kellycsantos/images-db/main/comidas%20variadas/Masgouf.jpg",
+            "value": "11",
+            "destaque": false,
+            "avaliacao": 5
+        }
+    ]
+}
